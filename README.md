@@ -34,6 +34,8 @@ call pe3.7FF6A55D1000
 - CreateFileW
 - SetFileInformationByHandle
 - CloseHandle
+- DeleteFile2A
+- DefineDosDeviceW
 
 ### ntdll.dll
 - RtlZeroMemory
